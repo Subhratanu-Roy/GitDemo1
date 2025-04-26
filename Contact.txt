@@ -1,4 +1,5 @@
 Name: Subhratanu Roy
 Job: Software Tester
-Country: India
+
 Language: Java, Python
+Windows10
